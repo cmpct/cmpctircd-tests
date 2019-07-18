@@ -1,0 +1,6 @@
+# Tooling
+.vscode
+
+# Build output
+bin
+obj
